@@ -29,7 +29,7 @@ app.post('/', function(req, res) {
     service: 'gmail',
     auth: {
       user: 'sharayus50@gmail.com', // generated ethereal user
-      pass: '', // generated ethereal password
+      pass: 'sharayus50@1902', // generated ethereal password
     },
   });
 

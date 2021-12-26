@@ -124,12 +124,7 @@ p {
      -o-transition: all .3s ease-in-out;
      transition: all .3s ease-in-out;
 }
-.img-responsive {
-     height: 350px;
-     width: 350px;
-     max-width: 100%;
-     height: auto;
-}
+
  :focus {
      outline: 0;
 }
@@ -404,11 +399,7 @@ p {
     top: -30px;
     transform: skew(-30deg);
 }
-.logo {
-  height: 5px;
-  width: 5px;
-     float: left;
-}
+
  nav.main-menu {
      float: right;
      margin-left: 0;
@@ -1187,13 +1178,8 @@ p {
      position: relative;
      z-index: 9;
 }
-.slide_img {
-    height: 450px;
-    width: 450px;
-    margin-right: 550px;
-    margin-top: 40px;
-    margin-bottom: 0;
-}
+
+
 .top-banner-slider .heroslider {
      margin: 0px;
      padding: 0px;
@@ -1989,4 +1975,7 @@ footer button {
     width: 95px;
     height: 48px;
 
+}
+.full a{
+image-orientation: ;
 }
